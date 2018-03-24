@@ -1,0 +1,25 @@
+body {
+    background: url('../images/food1.jpg');
+}
+
+h1 {
+    font-size: 20px;
+    color: tomato;
+    font-weight: bold;
+}
+.container {
+    /* background-color: turquoise; */
+    background: url('../images/concrete_seamless.png');
+    margin-bottom:20px;
+    border: cyan;
+   
+}
+
+#buttonFoods {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+#search-box {
+    float: right;
+}
