@@ -1,5 +1,10 @@
 body {
-    background: url('../images/food1.jpg');
+    background: url('../images/mediterraneansea2.jpg');
+    background-repeat: no-repeat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 
 h1 {
@@ -8,11 +13,14 @@ h1 {
     font-weight: bold;
 }
 .container {
-    /* background-color: turquoise; */
     background: url('../images/concrete_seamless.png');
-    margin-bottom:20px;
-    border: cyan;
-   
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
 }
 
 #buttonFoods {
