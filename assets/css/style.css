@@ -16,11 +16,15 @@ h1 {
     background: url('../images/concrete_seamless.png');
     background-repeat: no-repeat; 
     background-size: 100%;
+    border: cyan;
+    position: relative;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
 
+    
+   
 }
 
 #buttonFoods {
